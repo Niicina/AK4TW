@@ -1,0 +1,4 @@
+/* .class selector , definice etřídy, říkáme že pozadí bude žluté*/
+.classexample {
+  background-color: yellow;
+}
